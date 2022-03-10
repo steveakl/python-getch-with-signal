@@ -1,5 +1,5 @@
 # python-getch-with-signal
-get single key without pressing enter key
+Goal: get single key without pressing enter key, then map the key to something else 
 
 python getch library can get single char without enter key pressed. 
 But for home/pg up/left etc., it's hard to use.
